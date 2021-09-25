@@ -38,8 +38,9 @@ This repository contains a simple web dev project, made only with HTML and Css. 
 - You can add more content to the given website by adding more pages or sections to it.
 - Or any kind of change you find valid for the betterment of the website.
 
+## 🔗 Website Hosted link : [Visit Here](https://hacktoberfestsit.github.io/GYM-Website/hacktoberfest/index.html)
 
-### Don't forget to Star ⭐ this repo 😁
+### All the best and don't forget to Star ⭐ this repository. 😁
 
 <br><br>
 ___Onwed and managed by [Abhilasha Gupta](https://github.com/AbhilashaGupta16) 💗___
