@@ -32,7 +32,14 @@ This repository contains a simple web dev project, made only with HTML and Css. 
 - Make PR which is thoughtful
 - Don't forget to write your name on the Contributors.md file
 
+## Kind of Contributions you can make
+- The first and the most easy kind of contribution you can make is changing the Documentation. 
+- You can change the UI/UX design of the website and make it look even better.
+- You can add more content to the given website by adding more pages or sections to it.
+- Or any kind of change you find valid for the betterment of the website.
+
+
 ### Don't forget to Star ⭐ this repo 😁
 
-<br></br>
+<br><br>
 ___Onwed and managed by [Abhilasha Gupta](https://github.com/AbhilashaGupta16) ❤✨___
