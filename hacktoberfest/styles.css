@@ -3,7 +3,7 @@ body {
     color: white;
     margin: 0px;
     padding: 0px;
-    background: url("images/gym.jpg") no-repeat center center / cover;
+    background: url(images/gym.jpg) no-repeat center center / cover;
 }
 
 .header {
