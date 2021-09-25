@@ -2,7 +2,7 @@
 
 Get started with beginner friendly issues, add solution codes and learn contributing.
 
-## 😎About the repository
+## 😇About the repository
 This repository contains a simple web dev project, made only with HTML and Css. You can make any change in the design or layout of the website which makes it better.
 
 ## 📢General Steps to follow while contributing:
@@ -26,13 +26,13 @@ This repository contains a simple web dev project, made only with HTML and Css. 
 - Push the changes to make a successful PR: ```$ git push origin your-branch-name```
 - That's it 🎉💥
 
-## 🎭Make a Meaningful PR
+## 👀Make a Meaningful PR
 - Don't make a spam PR, if found you will be disqualified from Hacktoberfest
 - Try to understand the problem discussed in the issue
 - Make PR which is thoughtful
 - Don't forget to write your name on the Contributors.md file
 
-## Kind of Contributions you can make
+## 🌸 Kind of Contributions you can make
 - The first and the most easy kind of contribution you can make is changing the Documentation. 
 - You can change the UI/UX design of the website and make it look even better.
 - You can add more content to the given website by adding more pages or sections to it.
@@ -42,4 +42,4 @@ This repository contains a simple web dev project, made only with HTML and Css. 
 ### Don't forget to Star ⭐ this repo 😁
 
 <br><br>
-___Onwed and managed by [Abhilasha Gupta](https://github.com/AbhilashaGupta16) ❤✨___
+___Onwed and managed by [Abhilasha Gupta](https://github.com/AbhilashaGupta16) 💗___
