@@ -1,5 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap");
+
 body {
-  font-family: "Bitter", serif;
+  font-family: "Bitter", serif !important;
   margin: 0px;
   padding: 0px;
   background: url("images/gym.jpg") no-repeat center center / cover;
@@ -11,9 +13,9 @@ body {
   height: 72px;
 }
 
-.header h4{
-    font-size: large;
-    color: white;
+.header h4 {
+  font-size: large;
+  color: white;
 }
 
 .left {
@@ -55,7 +57,6 @@ body {
   top: 0px;
   right: 10px;
 }
-
 
 .img {
   width: 50px;
