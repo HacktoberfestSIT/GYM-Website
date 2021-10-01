@@ -1,94 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap");
+
 body {
-    font-family: 'Bitter', serif;
-    color: white;
-    margin: 0px;
-    padding: 0px;
-    background: url("images/gym.jpg") no-repeat center center / cover;
+  font-family: "Bitter", serif !important;
+  margin: 0px;
+  padding: 0px;
+  background: url("images/gym.jpg") no-repeat center center / cover;
+  background-color: rgba(0, 0, 0, 0.918) !important;
 }
 
 .header {
-    background-color: black;
-    height: 45px;
+  background-color: black;
+  height: 72px;
+}
+
+.header h4 {
+  font-size: large;
+  color: white;
 }
 
 .left {
-    text-align: center;
-    position: absolute;
-    line-height: 30px;
-    top: 0px;
-    left: 10px;
+  text-align: center;
+  position: absolute;
+  line-height: 30px;
+  top: 0px;
+  left: 10px;
 }
 
 .mid {
-    text-align: center;
-    line-height: 46.5px;
-    display: block;
-    width: 40%;
-    margin: 0px auto;
+  text-align: center;
+  line-height: 46.5px;
+  display: block;
+  width: 40%;
+  margin: 0px auto;
 }
 
 .mid li {
-    display: inline-block;
+  display: inline-block;
 }
 
 .mid li a {
-    text-decoration: none;
-    color: white;
-    padding: 8px;
+  text-decoration: none;
+  color: white;
+  padding: 8px;
 }
 
 .active,
 .mid li a:hover {
-    text-decoration: underline;
-    background-color: rgb(170, 164, 164);
+  text-decoration: underline;
+  background-color: rgb(170, 164, 164);
 }
 
 .right {
-    text-align: center;
-    line-height: 40px;
-    position: absolute;
-    top: 0px;
-    right: 10px;
+  text-align: center;
+  line-height: 40px;
+  position: absolute;
+  top: 0px;
+  right: 10px;
 }
 
 .img {
-    width: 40px;
-    height: 26px;
-    filter: invert(100%);
+  width: 50px;
+  height: auto;
+  filter: invert(100%);
+  margin: 10px;
 }
 
 .left h4 {
-    line-height: 0px;
-    margin: 0;
-    padding: 0px;
+  line-height: 0px;
+  margin: 0;
+  padding: 0px;
 }
-.btn{
-    padding: 5px;
-    margin: 1px;
-    cursor: pointer;
+.btn {
+  padding: 5px;
+  margin: 1px;
+  cursor: pointer;
+}
+.cont1 {
+  border: 2px solid black;
+  display: block;
+  width: 33%;
+  margin: 100px 145px;
+  text-align: center;
+  color: black;
+  background-color: #a2a2a473;
+}
 
+.box {
+  border: 2px solid black;
+  display: block;
+  margin: 2%;
+  background-color: #a2a2a473;
 }
-.cont1{
-    border: 2px solid black;
-    display: block;
-    width: 33%;
-    margin: 100px 145px;
-    text-align: center;
-    color: black;
-    background-color: #a2a2a473;
+
+.form-group {
+  padding: 2%;
 }
-input{
-    padding:2px;
-    margin:3px;
-    width:70%;
+
+.btn-primary {
+  margin-left: 50%;
+  margin-bottom: 5%;
 }
-.selt{
-    width: 72%;
-}
-.Submit{
-    width:72%;
-    color:white;
-    background-color: black;
-    cursor: pointer;
-    margin-bottom: 15px;
+
+.form-group label {
+  font-weight: 700;
 }
